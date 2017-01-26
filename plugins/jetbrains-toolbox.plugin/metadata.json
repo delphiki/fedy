@@ -1,7 +1,7 @@
 {
 	"icon": "jetbrains-toolbox",
 	"label": "JetBrains Toolbox App",
-	"description": "A control panel for your tools and projects.",
+	"description": "A toolbox to manage all your JetBrains applications.",
 	"license": "Free",
 	"proprietary": true,
 	"category": "Development Tools",
