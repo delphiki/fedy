@@ -9,7 +9,9 @@
         </linearGradient>
     </defs>
     
-<g class="currentLayer"><title>Layer 1</title><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage" class="" id="svg_1">
+    <g class="currentLayer">
+        <title>Layer 1</title>
+        <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage" class="" id="svg_1">
         <g id="svg_3" sketch:type="MSLayerGroup">
             <path d="M40.45402669914946,36.88730387505994 L28.93705322223853,43.193594335594206 L28.93705322223853,38.18452451969123 L40.45402669914946,31.878234059156952 L40.45402669914946,36.88730387505994 L40.45402669914946,36.88730387505994 z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"/>
             <g id="Group" sketch:type="MSShapeGroup">
@@ -18,4 +20,6 @@
                 <path d="M23.599277843670226,1.9630179135031543e-16 L0,13.139175440176297 L0,39.50743270183997 L23.599277843670226,52.71082698580989 L23.599277843670226,26.34256972414621 L47.19855568734045,13.139175440176297 L23.599277843670226,1.9630179135031543e-16 z" id="Shape" fill="url(#linearGradient-1)" transform=""/>
             </g>
         </g>
-    </g></g></svg>
+        </g>
+    </g>
+</svg>
